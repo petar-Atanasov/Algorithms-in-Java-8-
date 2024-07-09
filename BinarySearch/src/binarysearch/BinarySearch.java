@@ -2,7 +2,7 @@ package binarysearch;
 
 public class BinarySearch {
 
-//    The array must be fust sorted and is more effient than linear search
+//    The array must be fist sorted and is more effient than linear search
     
     public static int binarySearch(int[] list, int key) {
 //        Finding the key in the list with binary search 
