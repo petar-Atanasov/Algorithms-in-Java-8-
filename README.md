@@ -1,6 +1,6 @@
 # Algorithms-in-Java-8-
 
-###Purpose and Scope
+#Purpose and Scope
 ##This document provides an overview of the Algorithms-in-Java-8- repository, an educational codebase designed to demonstrate fundamental algorithms and their Big O notation ##complexity analysis. The repository contains three self-contained algorithm implementations that showcase different computational complexity classes: linear search (O(n)), ##binary search (O(log n)), and selection sort (O(n²)).
 
 For detailed implementation analysis of individual algorithms, see Linear Search Algorithm, Binary Search Algorithm, and Selection Sort Algorithm.
