@@ -1,4 +1,4 @@
-# Algorithms in Java 8
+# Big O Algorithms Performed in Java 8
 ---
 ## Overview
 This projects in an overview of an educational codebase designed to demonstrate fundamental algorithms and their `Big O` notation complexity analysis. 
