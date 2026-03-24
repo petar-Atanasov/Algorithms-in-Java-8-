@@ -13,7 +13,7 @@ The repository contains three self-contained algorithm implementations that show
 ## Key Purpose
 ### The repository implements three core algorithms that represent distinct complexity classes within `Big O` notation analysis:
 
-### Algorithm	Time Complexity	Space Complexity	Data Requirements	Primary Use Case:
+### Algorithm	Time Complexity,	Space Complexity,	Data Requirements & Primary Use Case:
 - `Linear Search	O(n)	O(1) `
   - Unsorted arrays	Small datasets, unsorted data
 -  `Binary Search	O(log n)	O(1)`
